@@ -1,0 +1,10 @@
+target/
+.classpath
+.project
+.factorypath
+.settings/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+dependency-reduced-pom.xml
