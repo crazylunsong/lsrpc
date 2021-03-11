@@ -10,6 +10,7 @@
     <modules>
         <module>lsrpc-core</module>
         <module>lsrpc-api</module>
+        <module>lsrpc-extension</module>
     </modules>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -25,9 +26,9 @@
 
     <developers>
         <developer>
-            <name>hexiaofeng</name>
-            <email>hexiaofeng@139.com</email>
-            <url>https://github.com/hexiaofeng</url>
+            <name>crazy_lunsong</name>
+            <email>lunsong_xia@126.com</email>
+            <url>https://github.com/crazy_lunsong</url>
         </developer>
     </developers>
 
